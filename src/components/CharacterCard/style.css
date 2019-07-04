@@ -68,4 +68,11 @@
   }
 }
 
+@media (max-width: 600px) {
+  .card {
+    height: 100px;
+    width: 100px;
+    margin: .5rem;
+  }
+}
 
