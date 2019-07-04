@@ -1,4 +1,10 @@
-.App {
+body {
+  background-image: url("/resources/images/botw_background.jpg");
+  background-size: 100% 100%;
+  background-color: #cccccc;
+ }
+ 
+ .App {
   text-align: center;
 }
 
@@ -30,4 +36,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.cards {
+  display: flex;
+  flex-flow: row wrap;
 }

@@ -1,0 +1,69 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 4.5rem;
+  text-decoration: underline;
+  color:rgb(0, 66, 0);
+  margin-bottom: 50px;
+  font-family: botwFont;
+}
+
+.title-area {
+height: 25%;
+}
+
+.title-area div {
+height: 100%;
+}
+
+.title-area > div img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.score-div {
+  height: 25% !important;
+  margin: 1rem 0;
+}
+
+.scores {
+  font-family: twilightPrincessFont;
+  font-size: 3rem;
+  color: gold;
+  background-color: rgba(0, 100, 0, .6);
+}
+
+@font-face {
+  font-family: botwFont;
+  src: url(/resources/fonts/HyliaSerifBeta-Regular.otf);
+}
+
+@font-face {
+  font-family: twilightPrincessFont;
+  src: url(/resources/fonts/Ravenna.ttf);
+}
+
+@media (max-width: 1500px) {
+  .scores {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 1250px) {
+  .scores {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 1000px) {
+  .scores {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 665px) {
+  .title-area {
+    height: 20%;
+  }
+}

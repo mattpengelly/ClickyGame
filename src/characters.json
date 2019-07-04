@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Link",
+    "image": "/resources/images/link.png",
+    "chosen": false
+  },
+  {
+    "id": 2,
+    "name": "Zelda",
+    "image": "/resources/images/zelda.png",
+    "chosen": false
+  },
+  {
+    "id": 3,
+    "name": "Hylian Royal Crest",
+    "image": "/resources/images/legend-of-zelda-breath-of-the-wild-logo-png-6-original.png",
+    "chosen": false
+  },
+  {
+    "id": 4,
+    "name": "Mipha",
+    "image": "/resources/images/mipha.png",
+    "chosen": false
+  },
+  {
+    "id": 5,
+    "name": "Daruk",
+    "image": "/resources/images/daruk.png",
+    "chosen": false
+  },
+  {
+    "id": 6,
+    "name": "Urbosa",
+    "image": "/resources/images/urbosa.png",
+    "chosen": false
+  },
+  {
+    "id": 7,
+    "name": "Revali",
+    "image": "/resources/images/revali.png",
+    "chosen": false
+  },
+  {
+    "id": 8,
+    "name": "Link on Horse",
+    "image": "/resources/images/breath-of-the-wild-png-2-original.png",
+    "chosen": false
+  },
+  {
+    "id": 9,
+    "name": "Yiga Logo",
+    "image": "/resources/images/breath-of-the-wild-yiga-logo-png-original.png",
+    "chosen": false
+  },
+  {
+    "id": 10,
+    "name": "Sheikah Logo",
+    "image": "/resources/images/breath-of-the-wild-sheikah-logo-original.png",
+    "chosen": false
+  },
+  {
+    "id": 11,
+    "name": "Master Sword",
+    "image": "/resources/images/mastersword.png",
+    "chosen": false
+  },
+  {
+    "id": 12,
+    "name": "Hylian Shield",
+    "image": "/resources/images/hylianshield.png",
+    "chosen": false
+  },
+  {
+    "id": 13,
+    "name": "Guardian",
+    "image": "/resources/images/zelda-breath-of-the-wild-transparent-2-original.png",
+    "chosen": false
+  },
+  {
+    "id": 14,
+    "name": "Ganon",
+    "image": "/resources/images/breath-of-the-wild-ganon-original.png",
+    "chosen": false
+  },
+  {
+    "id": 15,
+    "name": "Bokoblin",
+    "image": "/resources/images/breath-of-the-wild-bokoblin-original.png",
+    "chosen": false
+  }  
+]
