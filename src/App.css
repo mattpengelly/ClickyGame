@@ -42,3 +42,9 @@ body {
   display: flex;
   flex-flow: row wrap;
 }
+
+@media (max-width: 600px) {
+  body {
+    background-image: url("/resources/images/botw_background_narrow.jpg");
+   }
+}

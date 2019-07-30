@@ -81,7 +81,8 @@
     "id": 14,
     "name": "Ganon",
     "image": "/resources/images/breath-of-the-wild-ganon-original.png",
-    "chosen": false
+    "chosen": false,
+    "sound": "/resources/sounds/GanonGrudgeSolid_Damage.wav"
   },
   {
     "id": 15,

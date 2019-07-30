@@ -7,7 +7,7 @@ function CharacterCard(props) {
       <div
         className="img-container"
         onClick={() => props.playGuess(props.id)}>
-          {console.log(props.image)}
+          {/* {console.log(props.image)} */}
         <img alt={props.name} src={props.image} />
       </div>
     </div>
